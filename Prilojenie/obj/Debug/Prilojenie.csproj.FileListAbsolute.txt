@@ -1,0 +1,48 @@
+C:\Users\dimak\source\repos\Prilojenie\bin\Debug\Prilojenie.exe.config
+C:\Users\dimak\source\repos\Prilojenie\bin\Debug\Prilojenie.exe
+C:\Users\dimak\source\repos\Prilojenie\bin\Debug\Prilojenie.pdb
+C:\Users\dimak\source\repos\Prilojenie\bin\Debug\EntityFramework.dll
+C:\Users\dimak\source\repos\Prilojenie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimak\source\repos\Prilojenie\bin\Debug\EntityFramework.xml
+C:\Users\dimak\source\repos\Prilojenie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimak\source\repos\Prilojenie\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie.csprojAssemblyReference.cache
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\AEWindow.g.cs
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\MainWindow.g.cs
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\App.g.cs
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie_Content.g.cs
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie_MarkupCompile.cache
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie_MarkupCompile.lref
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\AEWindow.baml
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\MainWindow.baml
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie.g.resources
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie.Properties.Resources.resources
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie.csproj.GenerateResource.cache
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie.csproj.CoreCompileInputs.cache
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie.csproj.CopyComplete
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie.exe
+C:\Users\dimak\source\repos\Prilojenie\obj\Debug\Prilojenie.pdb
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\bin\Debug\Prilojenie.exe.config
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\bin\Debug\Prilojenie.exe
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\bin\Debug\Prilojenie.pdb
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\bin\Debug\EntityFramework.dll
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\bin\Debug\EntityFramework.xml
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie.csprojAssemblyReference.cache
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\AEWindow.g.cs
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\MainWindow.g.cs
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\App.g.cs
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie_Content.g.cs
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie_MarkupCompile.cache
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie_MarkupCompile.lref
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\AEWindow.baml
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\MainWindow.baml
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie.g.resources
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie.Properties.Resources.resources
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie.csproj.GenerateResource.cache
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie.csproj.CoreCompileInputs.cache
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie.csproj.CopyComplete
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie.exe
+C:\Users\AdminPC\Desktop\ярандайкин финал\Prilojenie\obj\Debug\Prilojenie.pdb
